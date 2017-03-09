@@ -94,59 +94,10 @@
   <project groups="pdk" name="LineageOS/android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" revision="0034a25fef249ecf9ad41cfb81f9682a436dab11" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk,broadcom_wlan" name="LineageOS/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" revision="ec1bdf2e0a3df10b8e26915155c6e3df5bc5cc8c" upstream="refs/heads/cm-14.1"/>
   <project name="LineageOS/android_hardware_cyanogen" path="hardware/cyanogen" revision="bab4499af953368cfdcaf04617c0f2b9bf9bc06e" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" revision="7f2d5a0df25852b3f3abb9dc7ad8f7baa7f9a418" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_common_libva" path="hardware/intel/common/libva" revision="497db87851a0ea0c2d1522cae66896dbab6f463b" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_common_libwsbm" path="hardware/intel/common/libwsbm" revision="0dc67b0d9afd3b43cfb680508e8ad2b84eff79e0" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_common_omx-components" path="hardware/intel/common/omx-components" revision="5abed81bb67fcab14b4e848bb3c099939f2575b1" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_common_utils" path="hardware/intel/common/utils" revision="56174842eb08355cc9e5c648aaa74faf0188f6e4" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_img_hwcomposer" path="hardware/intel/img/hwcomposer" revision="77a569025ab503a81a93a06ac7c6ee08df40cff6" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_img_psb_headers" path="hardware/intel/img/psb_headers" revision="7bb0667b1f08f8d331dbd673398ebd87061f006c" upstream="refs/heads/cm-14.1"/>
   <project groups="intel" name="LineageOS/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb_video" revision="72b4180a94e253b0a6f6a33ebb1b8b56e9205ea2" upstream="refs/heads/cm-14.1"/>
   <project groups="invensense" name="LineageOS/android_hardware_invensense" path="hardware/invensense" revision="1693470c8877f7daf77ade928882fc8642a6b805" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk" name="LineageOS/android_hardware_libhardware" path="hardware/libhardware" revision="721e37cd8539d996a88b6c636bcfbb4c41d151f9" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk" name="LineageOS/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" revision="ece325ebc05974f7d9789618b307cee75e9e5002" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio/default" revision="bc83ef06cf69f04a11f70dd19b326c9329f9e1ae" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/apq8084" revision="a9bf1aa5507d94c89ea3e074d7198e8eb3d1f57b" upstream="cm-14.1-caf-8084"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" revision="c205dc81bb55504f423c0c5f63f4c0d9b933ee80" upstream="cm-14.1-caf-8916"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8937" revision="7f7cc95360ef6305fc88e56bd257ceaf9620a882" upstream="cm-14.1-caf-8937"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8952" revision="37f832f2a775721888ef63967f929bd408ead2f3" upstream="cm-14.1-caf-8952"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8960" revision="727d95e39bae740075aac5ab3ceab9f11c82bf17" upstream="cm-14.1-caf-8960"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" revision="45552c30227c9b0a7b5036aa79c940f12fc9312c" upstream="cm-14.1-caf-8974"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8994" revision="c05562e98b4e3fbbaf82a3cd2b1e57dd6e6dd72f" upstream="cm-14.1-caf-8994"/>
-  <project groups="qcom,qcom_audio" name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8996" revision="25bbb88034a2d4febf1713023b8030c2f471ec75" upstream="cm-14.1-caf-8996"/>
-  <project groups="pdk" name="LineageOS/android_hardware_qcom_bootctrl" path="hardware/qcom/bootctrl" revision="0a8485b5a0f79b0a86191ac52c583613824fb8d5" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_bt" path="hardware/qcom/bt" revision="9fda5c31e80295d29282e8b8a326767c979d9a07" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_bt" path="hardware/qcom/bt-caf" revision="1e285c6d2c7486793cc118c2f6e8b80812f2f4f1" upstream="cm-14.1-caf"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_camera" path="hardware/qcom/camera" revision="702f237b021760b43aceae18f5b3ce8084ccde8d" upstream="refs/heads/cm-14.1"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display" revision="d7dc8cdb1201962f93d4f6fb4371ed0083cf1f5d" upstream="refs/heads/cm-14.1"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/apq8084" revision="90b39d3bdad421d55c56a1ad9b8444efdbef2b70" upstream="cm-14.1-caf-8084"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" revision="c1f04bed2a557c858b993b57d3fa8e89573161eb" upstream="cm-14.1-caf-8916"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8937" revision="3dfb72afcb8b651e1f28d1c9aba8e563f7fddbd7" upstream="cm-14.1-caf-8937"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8952" revision="5826a44279d9eac8a11463520606a8164f096baa" upstream="cm-14.1-caf-8952"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8960" revision="f27984c7b5e59605b45870e6e19b23242f0537d8" upstream="cm-14.1-caf-8960"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" revision="9e71415ab9acba745b9216a7bb8592bed0c7dbeb" upstream="cm-14.1-caf-8974"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8994" revision="51630074e93141adf7d1db5644f84d65349dc48b" upstream="cm-14.1-caf-8994"/>
-  <project groups="pdk,qcom,qcom_display" name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8996" revision="c372a9bbbe8f3f48f3f32b029cc16a8d03b1f7dc" upstream="cm-14.1-caf-8996"/>
-  <project groups="qcom,qcom_fm" name="LineageOS/android_hardware_qcom_fm" path="hardware/qcom/fm" revision="63372761bae86a09a3e427a839b19bb8d480a833" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom,qcom_gps" name="LineageOS/android_hardware_qcom_gps" path="hardware/qcom/gps" revision="371e95f4406ca97bd6493c28c551859ae33e06fe" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom,qcom_keymaster" name="LineageOS/android_hardware_qcom_keymaster" path="hardware/qcom/keymaster" revision="9fa20f36ed356694019d9c26e1a9b09ba44776d7" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media" revision="c8a76055f0ac52341ab8d5f595afb23e5fbae34a" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/apq8084" revision="e1c1f5a7b502df4278ecc33fc01f2417e2760102" upstream="cm-14.1-caf-8084"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8916" revision="4c3361b2fb19bd9ac0e29b0a97feae4240e341ad" upstream="cm-14.1-caf-8916"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8937" revision="64e0fc127df221f7b93f013d27dfdacd417cd1fb" upstream="cm-14.1-caf-8937"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8952" revision="b5a8b18081278b8d3cce3f6bd2b7cfcbdf76e459" upstream="cm-14.1-caf-8952"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8960" revision="3e34f2426e41f0111b5b016f5d4e8aecb8954fa3" upstream="cm-14.1-caf-8960"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" revision="99eef721ecc527eaa42ab7d0ef21a9fd2d352abc" upstream="cm-14.1-caf-8974"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" revision="1f58202505b47cc057a7d1c5e976c1a01ab8cdb8" upstream="cm-14.1-caf-8994"/>
-  <project groups="qcom" name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8996" revision="86c766ce3add693cf9e733729ea569aac3fc2934" upstream="cm-14.1-caf-8996"/>
-  <project groups="qcom_wlan" name="LineageOS/android_hardware_qcom_wlan" path="hardware/qcom/wlan" revision="ed62a2fce1cd8f891862ec342c4500de6d49da3c" upstream="refs/heads/cm-14.1"/>
-  <project groups="qcom_wlan" name="LineageOS/android_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" revision="b6b2caef1d920328902481cca17f7723e1813cdc" upstream="cm-14.1-caf"/>
-  <project groups="pdk" name="LineageOS/android_hardware_ril" path="hardware/ril" revision="4715c6545d9fafb6ad554818ddd5839268dc022f" upstream="refs/heads/cm-14.1"/>
-  <project groups="pdk" name="LineageOS/android_hardware_ril" path="hardware/ril-caf" revision="927a52d5d3bfc9b86a4751f4f67c8a886c349cce" upstream="cm-14.1-caf"/>
-  <project name="LineageOS/android_hardware_ti_omap4" path="hardware/ti/omap4" revision="a6fd7f48e69497ae2cc8bb3b93292618ae3ff23d" upstream="refs/heads/cm-14.1"/>
-  <project groups="omap4" name="LineageOS/android_hardware_ti_omap4xxx" path="hardware/ti/omap4xxx" revision="b94c6fe6065530b9b10ac3be53a35906e81a155a" upstream="refs/heads/cm-14.1"/>
-  <project name="LineageOS/android_hardware_ti_wlan" path="hardware/ti/wlan" revision="f75d24a45f68dfeabda86d2e8416990d796f9a7e" upstream="refs/heads/cm-14.1"/>
-  <project name="LineageOS/android_hardware_ti_wpan" path="hardware/ti/wpan" revision="bcf2967acf1a644a59cb113891ad618b1a4cad5f" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk" name="LineageOS/android_libcore" path="libcore" revision="7afe9e8f797e331078f1af8c43b0c4d94552cb70" upstream="refs/heads/cm-14.1"/>
   <project name="LineageOS/android_packages_apps_AudioFX" path="packages/apps/AudioFX" revision="9b36fdc066a6b0f27266b2f5305d16638128dcc6" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk-cw-fs,pdk-fs" name="LineageOS/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" revision="d484cab1e0e52ddec82ec48af3930963cce8b5f3" upstream="refs/heads/cm-14.1"/>
