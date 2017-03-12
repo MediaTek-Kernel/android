@@ -91,10 +91,7 @@
   <project groups="pdk" name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="4a9f49f739d603a663add805812467748ef5816e" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk-cw-fs,pdk-fs" name="LineageOS/android_frameworks_opt_vcard" path="frameworks/opt/vcard" revision="6592684647ae2493d9369c0ff0ae0ebd9cc4cbea" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk-cw-fs,pdk-fs" name="LineageOS/android_frameworks_support" path="frameworks/support" revision="0285afecf474df8254879e2c35043d4174713d69" upstream="refs/heads/cm-14.1"/>
-  <project groups="pdk" name="LineageOS/android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" revision="0034a25fef249ecf9ad41cfb81f9682a436dab11" upstream="refs/heads/cm-14.1"/>
-  <project groups="pdk,broadcom_wlan" name="LineageOS/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" revision="ec1bdf2e0a3df10b8e26915155c6e3df5bc5cc8c" upstream="refs/heads/cm-14.1"/>
   <project name="LineageOS/android_hardware_cyanogen" path="hardware/cyanogen" revision="bab4499af953368cfdcaf04617c0f2b9bf9bc06e" upstream="refs/heads/cm-14.1"/>
-  <project groups="intel" name="LineageOS/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb_video" revision="72b4180a94e253b0a6f6a33ebb1b8b56e9205ea2" upstream="refs/heads/cm-14.1"/>
   <project groups="invensense" name="LineageOS/android_hardware_invensense" path="hardware/invensense" revision="1693470c8877f7daf77ade928882fc8642a6b805" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk" name="LineageOS/android_hardware_libhardware" path="hardware/libhardware" revision="721e37cd8539d996a88b6c636bcfbb4c41d151f9" upstream="refs/heads/cm-14.1"/>
   <project groups="pdk" name="LineageOS/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" revision="ece325ebc05974f7d9789618b307cee75e9e5002" upstream="refs/heads/cm-14.1"/>
